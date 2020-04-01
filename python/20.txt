@@ -1,0 +1,30 @@
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+print
+input
+whste
+if
+else
+str
+int
+name
+score
+elif
+and
+or
+True
+False
+sum
+for
+in
+range
+n=1
+whtle n<10:
+    if n%2==0:
+        print(n)
+    n=n+1
+a=int(input('a'))
+b=int(input('b'))
+if a>b:
+    print('a大')
+else:
+    print('b大或相等')

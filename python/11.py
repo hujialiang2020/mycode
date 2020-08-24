@@ -1,5 +1,5 @@
-p_score=int(input('请输入您的Python成绩'))
-m_score=int(input('请输入您的数学成绩'))
+p_score=int(input('请输入您的Python成绩:'))
+m_score=int(input('请输入您的数学成绩:'))
 if p_score>=90:
     if m_score>=90:
         print('优秀')

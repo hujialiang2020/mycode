@@ -11,6 +11,6 @@ void setup() {
 void loop() {
   sensor=analogRead(A0);
   argle=map(sensor,0,1023,0,180);
-  myservo.write(argle-);                  
+  myservo.write(argle  );                  
   delay(15);                           
 }
